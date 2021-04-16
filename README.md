@@ -16,17 +16,3 @@
            
 ***
    
-# 3 BIOINFORMATIC     
- 
->## 3.1 Counting DNA Nucleotides
->>In this exercise we need to count it of the DNA molecules:  adenine (A), cytosine (C), guanine (G), and thymine (T).
->>Here I did a dictionary just to see how it works e tran I used count() Method to count it of the letters we have in this string.
-    
->## 3.2 Transcribing DNA into RNA
->>Here we use __`replace()`__ method to change Uracil into Thymine molecules into the string.
-
->## 3.3 Complement a Strand of DNA
->>Here we worked with __dictinary__ to created a key and value for it replace that is necessary to do.
->>For to do this replacement we used a __loop__ __`for`__ __`in`__.
->>In the and we print this new string in the __reverse order__.
->>We also used __case low__ and __case upper__.
